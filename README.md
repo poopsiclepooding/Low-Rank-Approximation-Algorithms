@@ -4,9 +4,13 @@ This is a repo about algorithms pertaining to low rank approxmation of matirces.
 # File Structure
 
 `algorithms.py`: Contains all algorithmic implementations.
+
 `main.py`: The primary script to run the project.
+
 `utils.py`: Contains utility scripts to support the main workflow.
+
 `plot.py`: Contains plotting and visualization scripts.
+
 `Project_Report.pdf`: Detalied explanation of underlying algorithms.
 
 # Getting Started
