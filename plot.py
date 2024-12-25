@@ -141,6 +141,5 @@ def compare_time_over_sizes(size_bottom_bound=200, size_top_bound=1000, size_ste
     plt.title('Computation Time Comparison for SVD, Various Power Iterations of Randomized SVD, and RRQR')
     plt.legend()
     plt.grid()
-    plt.show()
     plt.savefig("time.jpg")
-
+    plt.show()
